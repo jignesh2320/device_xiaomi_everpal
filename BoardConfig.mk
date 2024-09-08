@@ -9,6 +9,9 @@ DEVICE_PATH := device/xiaomi/everpal
 # Asserts
 TARGET_OTA_ASSERT_DEVICE := evergo,evergreen,everpal,opal
 
+# Kernel
+TARGET_KERNEL_CONFIG := everpal_defconfig
+
 # NFC
 ODM_MANIFEST_SKUS += nonfc
 

@@ -16,5 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <string name="maintainer_name">Jignesh2023</string>
+    <string name="ext_settings_summary">Redmi Note 11T/S 5G,POCO M4 Pro 5G</string>
 
 </resources>

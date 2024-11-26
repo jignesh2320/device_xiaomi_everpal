@@ -21,5 +21,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := everpal
 
+WITH_GMS := true
+
 # Build info
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi

@@ -459,6 +459,13 @@ vendor/etc/camera/libalfpc_tuning.bin
 -vendor/lib64/imx355ofilm_mipi_raw_tuning.so
 -vendor/lib64/imx355sunny_mipi_raw_IdxMgr.so
 -vendor/lib64/imx355sunny_mipi_raw_tuning.so
+-vendor/lib64/libCamera_ov50c40ofilmmipiraw_SuperNS_Scene_Preview.so
+-vendor/lib64/libCamera_ov50c40ofilmmipiraw_SuperNS_Scene_Preview_Zoom1.so
+-vendor/lib64/libCamera_ov50c40ofilmmipiraw_SuperNS_Scene_Preview_Zoom2.so
+-vendor/lib64/libCamera_s5kjn1sunnymipiraw_Color_Capture.so
+-vendor/lib64/libCamera_s5kjn1sunnymipiraw_SuperNS_Scene_Preview.so
+-vendor/lib64/libCamera_s5kjn1sunnymipiraw_SuperNS_Scene_Preview_Zoom1.so
+-vendor/lib64/libCamera_s5kjn1sunnymipiraw_SuperNS_Scene_Preview_Zoom2.so
 -vendor/lib64/libalLDC.so
 -vendor/lib64/libalhLDC.so
 -vendor/lib64/libcam.afhal.so

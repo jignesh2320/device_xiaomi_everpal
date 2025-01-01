@@ -14,6 +14,10 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit from everpal device
 $(call inherit-product, device/xiaomi/everpal/device.mk)
 
+# Evolution-X Flags
+TARGET_BOOT_ANIMATION_RES := 1080
+TARGET_USES_PICO_GAPPS := true
+
 # Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_everpal
 PRODUCT_DEVICE := everpal

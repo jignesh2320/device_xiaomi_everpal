@@ -21,5 +21,18 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := everpal
 
+# Blur
+TARGET_ENABLE_BLUR := true
+
+# Bootanimation
+TARGET_BOOT_ANIMATION_RES := 1080
+
+# BCR (Call recording)
+TARGET_PREBUILT_BCR := true
+
+
+# Custom package installer
+TARGET_USE_CUSTOM_PACKAGE_INSTALLER := true
+
 # Build info
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
